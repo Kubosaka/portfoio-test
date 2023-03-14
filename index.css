@@ -1,0 +1,77 @@
+.head {
+    position: absolute;
+    width: 1280px;
+    height: 125px;
+    left: 0px;
+    top: 0px;
+    background: #86B6FF;
+}
+
+.headder {
+    position: relative;
+    width: 722px;
+    height: 75px;
+    left: 279px;
+    top: 25px; 
+    font-family: 'Abhaya Libre ExtraBold';
+    font-style: normal;
+    font-weight: 750;
+    font-size: 50px;
+    line-height: 76px;
+    
+    color: #FFFFFF;
+}
+
+.main-text {
+    position: absolute;
+    width: 950px;
+    height: 308px;
+    left: 51px;
+    top: 165px;
+    
+    font-family: 'Abhaya Libre ExtraBold';
+    font-style: normal;
+    font-weight: 800;
+    font-size: 50px;
+    line-height: 76px;
+    
+    color: #86B6FF;
+}
+
+.git {
+    position: absolute;
+    width: 202px;
+    height: 200px;
+    left: 178px;
+    top: 538px;
+
+    background: url(/img/git.jpeg);
+}
+
+.twitter {
+    position: absolute;
+    width: 203px;
+    height: 200px;
+    left: 539px;
+    top: 538px;
+    
+    background: url(/img/twitter.jpeg);
+}
+
+.nutmeg {
+    position: absolute;
+    width: 173px;
+    height: 172px;
+    left: 901px;
+    top: 552px;
+    
+    background: url(/img/NUTMEG.jpg);
+}
+body {
+    position: relative;
+    width: 1280px;
+    height: 832px;
+    background: #FFFFFF;
+}
+
+
